@@ -1,2 +1,2 @@
 # meerkat
-# I love fuzzy things
+# Meow
